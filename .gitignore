@@ -1,0 +1,5 @@
+venv
+*.pkl
+*.csv
+.env
+.ipynb_checkpoints
